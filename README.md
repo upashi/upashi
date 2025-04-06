@@ -1,1 +1,1 @@
-[AMP](https://github.com/upashi/AMP/blob/main/AMP%20PRACT.txt)
+[PGIS](https://github.com/upashi/PGIS/blob/main/PGIS%20manual.txt)
